@@ -1,0 +1,486 @@
+[
+  {
+    "id": 0,
+    "sides": [
+      ["river", false],
+      ["field", false],
+      ["field", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "river0.png"
+  },
+  {
+    "id": 1,
+    "sides": [
+      ["river", false],
+      ["river", false],
+      ["field", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "river1.png"
+  },
+  {
+    "id": 2,
+    "sides": [
+      ["river", false],
+      ["field", false],
+      ["field", false],
+      ["river", false]
+    ],
+    "church": false,
+    "sprite": "river2.png"
+  },
+  {
+    "id": 3,
+    "sides": [
+      ["road", false],
+      ["river", false],
+      ["river", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "river3.png"
+  },
+  {
+    "id": 4,
+    "sides": [
+      ["river", false],
+      ["field", false],
+      ["river", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "river4.png"
+  },
+  {
+    "id": 5,
+    "sides": [
+      ["river", false],
+      ["field", false],
+      ["river", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "river5.png"
+  },
+  {
+    "id": 6,
+    "sides": [
+      ["field", false],
+      ["river", false],
+      ["road", false],
+      ["river", false]
+    ],
+    "church": true,
+    "sprite": "river6.png"
+  },
+  {
+    "id": 7,
+    "sides": [
+      ["river", false],
+      ["road", false],
+      ["river", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "river7.png"
+  },
+  {
+    "id": 8,
+    "sides": [
+      ["town", true],
+      ["town", true],
+      ["river", false],
+      ["river", false]
+    ],
+    "church": false,
+    "sprite": "river8.png"
+  },
+  {
+    "id": 9,
+    "sides": [
+      ["town", true],
+      ["river", false],
+      ["town", true],
+      ["river", false]
+    ],
+    "church": false,
+    "sprite": "river9.png"
+  },
+  {
+    "id": 10,
+    "sides": [
+      ["town", true],
+      ["river", false],
+      ["road", false],
+      ["river", false]
+    ],
+    "church": false,
+    "sprite": "river10.png"
+  },
+  {
+    "id": 11,
+    "sides": [
+      ["river", false],
+      ["field", false],
+      ["field", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "river11.png"
+  },
+  {
+    "id": 12,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road1.png"
+  },
+  {
+    "id": 13,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road1.png"
+  },
+  {
+    "id": 14,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road1.png"
+  },
+  {
+    "id": 15,
+    "sides": [
+      ["road", false],
+      ["field", false],
+      ["road", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "road2.png"
+  },
+  {
+    "id": 16,
+    "sides": [
+      ["road", false],
+      ["field", false],
+      ["road", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "road2.png"
+  },
+  {
+    "id": 17,
+    "sides": [
+      ["road", false],
+      ["field", false],
+      ["road", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "road2.png"
+  },
+  {
+    "id": 18,
+    "sides": [
+      ["road", false],
+      ["field", false],
+      ["road", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "road2.png"
+  },
+  {
+    "id": 19,
+    "sides": [
+      ["road", false],
+      ["field", false],
+      ["road", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "road2.png"
+  },
+  {
+    "id": 20,
+    "sides": [
+      ["road", false],
+      ["field", false],
+      ["road", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "road2.png"
+  },
+  {
+    "id": 21,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road3.png"
+  },
+  {
+    "id": 22,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road4.png"
+  },
+  {
+    "id": 23,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road5.png"
+  },
+  {
+    "id": 24,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["field", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road6.png"
+  },
+  {
+    "id": 25,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road7.png"
+  },
+  {
+    "id": 26,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road7.png"
+  },
+  {
+    "id": 27,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road7.png"
+  },
+  {
+    "id": 28,
+    "sides": [
+      ["field", false],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road7.png"
+  },
+  {
+    "id": 29,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road8.png"
+  },
+  {
+    "id": 30,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road8.png"
+  },
+  {
+    "id": 31,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road8.png"
+  },
+  {
+    "id": 32,
+    "sides": [
+      ["town", true],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road8.png"
+  },
+  {
+    "id": 33,
+    "sides": [
+      ["road", false],
+      ["road", false],
+      ["road", false],
+      ["road", false]
+    ],
+    "church": false,
+    "sprite": "road9.png"
+  },
+  {
+    "id": 34,
+    "sides": [
+      ["town", true],
+      ["field", false],
+      ["town", true],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "city1.png"
+  },
+  {
+    "id": 35,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["field", true],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city2.png"
+  },
+  {
+    "id": 36,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["road", true],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city3.png"
+  },
+  {
+    "id": 37,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["road", true],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city3.png"
+  },
+  {
+    "id": 38,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["field", true],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city4.png"
+  },
+  {
+    "id": 39,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["field", true],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city4.png"
+  },
+  {
+    "id": 40,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["road", true],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city5.png"
+  },
+  {
+    "id": 41,
+    "sides": [
+      ["town", false],
+      ["town", false],
+      ["town", false],
+      ["town", false]
+    ],
+    "church": false,
+    "sprite": "city6.png"
+  },
+  {
+    "id": 42,
+    "sides": [
+      ["town", true],
+      ["town", true],
+      ["field", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "city7.png"
+  },
+  {
+    "id": 43,
+    "sides": [
+      ["town", true],
+      ["town", true],
+      ["field", false],
+      ["field", false]
+    ],
+    "church": false,
+    "sprite": "city7.png"
+  }
+]
